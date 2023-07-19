@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem8_dz\task4_60\obj\Debug\net6.0\task4_60.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem8_dz\task4_60\obj\Debug\net6.0\task4_60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem8_dz\task4_60\obj\Debug\net6.0\task4_60.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem8_dz\task4_60\obj\Debug\net6.0\task4_60.AssemblyInfo.cs
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem8_dz\task4_60\obj\Debug\net6.0\task4_60.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem8_dz\task4_60\bin\Debug\net6.0\task4_60.exe
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem8_dz\task4_60\bin\Debug\net6.0\task4_60.deps.json
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem8_dz\task4_60\bin\Debug\net6.0\task4_60.runtimeconfig.json
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem8_dz\task4_60\bin\Debug\net6.0\task4_60.dll
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem8_dz\task4_60\bin\Debug\net6.0\task4_60.pdb
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem8_dz\task4_60\obj\Debug\net6.0\task4_60.dll
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem8_dz\task4_60\obj\Debug\net6.0\refint\task4_60.dll
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem8_dz\task4_60\obj\Debug\net6.0\task4_60.pdb
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem8_dz\task4_60\obj\Debug\net6.0\task4_60.genruntimeconfig.cache
+C:\Users\User\Documents\Аналитик\Обучение GB\C#\sem8_dz\task4_60\obj\Debug\net6.0\ref\task4_60.dll
